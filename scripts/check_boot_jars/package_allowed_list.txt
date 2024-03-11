@@ -293,3 +293,12 @@ org.codeaurora.internal
 qcom.fmradio
 
 ###################################################
+# ONEPLUS
+com.oplus.*
+net.oneplus.*
+oplus.*
+vendor.oplus.*
+com.oneplus.*
+vendor.oneplus.*
+
+###################################################
